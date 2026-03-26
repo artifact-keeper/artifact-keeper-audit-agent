@@ -1,0 +1,12 @@
+{
+  "name": "ak-audit-agent",
+  "description": "Automated multi-lens audit team for codebases. Spawns 8 specialist reviewers covering security, code quality, infrastructure, DevOps, compliance, accessibility, performance, and documentation. Produces a consolidated report and creates issue tracker entries for findings.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Artifact Keeper",
+    "email": "hello@artifactkeeper.com"
+  },
+  "repository": "https://github.com/artifact-keeper/artifact-keeper-audit-agent",
+  "license": "MIT",
+  "keywords": ["audit", "security", "code-quality", "devops", "compliance", "accessibility", "performance", "documentation"]
+}
