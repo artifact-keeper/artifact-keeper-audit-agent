@@ -1,5 +1,12 @@
 # ak-audit-agent
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/artifact-keeper/.github/main/brand/logo-horizontal-dark.png">
+    <img alt="Artifact Keeper" src="https://raw.githubusercontent.com/artifact-keeper/.github/main/brand/logo-horizontal-light.png" width="360">
+  </picture>
+</p>
+
 A Claude Code plugin that runs automated multi-lens audits on your codebase using agent teams.
 
 When invoked, the plugin creates a team of 8 specialist reviewers that work in parallel, each examining your code through a different lens. The orchestrator coordinates their work, deduplicates findings, cross-references against your existing issue tracker, and produces a consolidated report.
